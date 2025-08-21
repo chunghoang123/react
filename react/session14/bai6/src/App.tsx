@@ -1,11 +1,11 @@
 import './App.css'
-import Timer from './components/Timer'
+import GenderForm from './components/GenderForm '
 
 function App() {
 
   return (
     <>
-     <Timer/>
+     <GenderForm/>
     </>
   )
 }

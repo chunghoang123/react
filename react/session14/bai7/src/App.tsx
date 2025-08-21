@@ -1,11 +1,12 @@
 import './App.css'
-import Timer from './components/Timer'
+import RegisterForm from './components/RegisterForm'
 
 function App() {
 
   return (
     <>
-     <Timer/>
+    <RegisterForm/>
+    
     </>
   )
 }

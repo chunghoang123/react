@@ -1,11 +1,12 @@
 import './App.css'
-import Timer from './components/Timer'
+import Notification from './components/Notification '
+
 
 function App() {
 
   return (
     <>
-     <Timer/>
+    <Notification/>
     </>
   )
 }

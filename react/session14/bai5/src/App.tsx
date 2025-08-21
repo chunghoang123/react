@@ -1,11 +1,11 @@
 import './App.css'
-import Timer from './components/Timer'
+import ProductForm from './components/ProductForm '
 
 function App() {
 
   return (
     <>
-     <Timer/>
+   <ProductForm/>
     </>
   )
 }

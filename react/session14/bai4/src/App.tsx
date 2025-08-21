@@ -1,11 +1,11 @@
 import './App.css'
-import Timer from './components/Timer'
+import ExampleComponent from './components/ExampleComponent'
 
 function App() {
 
   return (
     <>
-     <Timer/>
+     <ExampleComponent/>
     </>
   )
 }
