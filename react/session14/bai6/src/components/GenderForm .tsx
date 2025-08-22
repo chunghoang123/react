@@ -67,7 +67,7 @@ export default class GenderForm extends Component<object, StateType> {
             <label htmlFor="other">Khác</label>
           </div>
 
-          <button type="submit" style={{ marginTop: "10px" }}>
+          <button  style={{ marginTop: "10px" }}>
             Submit
           </button>
         </form>
