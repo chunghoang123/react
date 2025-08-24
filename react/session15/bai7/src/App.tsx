@@ -1,11 +1,11 @@
 import './App.css'
-import ComponentDate from './components/componentDate'
+import Clock from './components/Clock'
 
 function App() {
 
   return (
     <>
-     <ComponentDate />
+      <Clock />
     </>
   )
 }

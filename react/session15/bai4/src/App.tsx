@@ -1,11 +1,12 @@
 import './App.css'
-import ComponentDate from './components/componentDate'
+import ComponentRange from './components/ComponentRange '
 
 function App() {
 
   return (
     <>
-     <ComponentDate />
+      <ComponentRange />
+      
     </>
   )
 }

@@ -1,11 +1,11 @@
 import './App.css'
-import ComponentDate from './components/componentDate'
+import Counter from './components/Counter'
 
 function App() {
 
   return (
     <>
-     <ComponentDate />
+      <Counter />
     </>
   )
 }
