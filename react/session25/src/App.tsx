@@ -5,7 +5,11 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Login from "./layOut/Login";
 import Register from "./layOut/Register";
+<<<<<<< HEAD
 import NotFound from "./pages/Notfound";
+=======
+import NotFound from "./pages/NotFound";
+>>>>>>> d7b2d43990a6f7eb2fc12a7e3d88b80171110fde
 import Product from "./pages/Product";
 import Detail from "./pages/Detail";
 import Header from "./layOut/Header";
