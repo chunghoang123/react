@@ -1,0 +1,12 @@
+import { Routes, Route } from "react-router-dom";
+import ProductList from "./components/ProductList";
+
+function App() {
+  return (
+    <Routes>
+      <Route path="/products" element={<ProductList />} />
+    </Routes>
+  );
+}
+
+export default App;

@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productName": "Sản phẩm 1",
+      "image": "https://via.placeholder.com/150",
+      "price": 100000,
+      "quantity": 1,
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "productName": "Sản phẩm 2",
+      "image": "https://via.placeholder.com/150",
+      "price": 200000,
+      "quantity": 1,
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": 3,
+      "productName": "Sản phẩm 3",
+      "image": "https://via.placeholder.com/150",
+      "price": 300000,
+      "quantity": 1,
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": 4,
+      "productName": "Sản phẩm 4",
+      "image": "https://via.placeholder.com/150",
+      "price": 400000,
+      "quantity": 1,
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": 5,
+      "productName": "Sản phẩm 5",
+      "image": "https://via.placeholder.com/150",
+      "price": 500000,
+      "quantity": 1,
+      "createdAt": "2023-01-01"
+    }
+  ]
+}
